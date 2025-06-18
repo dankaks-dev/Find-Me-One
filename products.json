@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Reusable Bamboo Cutlery Set",
+      "description": "Plastic-free travel cutlery made from sustainable bamboo.",
+      "image": "https://via.placeholder.com/300x200?text=Bamboo+Cutlery",
+      "link": "https://example.com/affiliate/bamboo-cutlery"
+    },
+    {
+      "name": "Organic Cotton Tote Bag",
+      "description": "Ditch plastic bags with this durable, eco-friendly tote.",
+      "image": "https://via.placeholder.com/300x200?text=Cotton+Tote",
+      "link": "https://example.com/affiliate/tote-bag"
+    },
+    {
+      "name": "Natural Shampoo Bar",
+      "description": "Sulfate-free, plastic-free hair care for all types.",
+      "image": "https://via.placeholder.com/300x200?text=Shampoo+Bar",
+      "link": "https://example.com/affiliate/shampoo-bar"
+    }
+  ]
+}
